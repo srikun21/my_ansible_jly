@@ -1,0 +1,22 @@
+---
+ students:
+   - name: srikant
+     phone: 898374
+     rollno: 1
+     addresses:
+       street: 78
+       houseno: 7
+
+   - name: kumar
+     phone: 988663
+     rollno: 3
+     addresses:
+       street: 89
+       houseno: 3
+
+   - name: aniket
+     phone: 79263e
+     rollno: 4
+     addresses: 
+       street: 09
+       houseno: 2   
